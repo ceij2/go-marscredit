@@ -1,5 +1,6 @@
 #!/bin/sh
 
+#
 echo "Starting Node 99"
 
 # Function to handle shutdown
